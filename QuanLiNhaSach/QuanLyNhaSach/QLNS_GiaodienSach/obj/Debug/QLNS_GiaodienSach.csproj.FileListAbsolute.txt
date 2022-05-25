@@ -1,0 +1,75 @@
+C:\Users\Asus\source\repos\QLNS_GiaodienSach\QLNS_GiaodienSach\bin\Debug\QLNS_GiaodienSach.exe.config
+C:\Users\Asus\source\repos\QLNS_GiaodienSach\QLNS_GiaodienSach\bin\Debug\QLNS_GiaodienSach.exe
+C:\Users\Asus\source\repos\QLNS_GiaodienSach\QLNS_GiaodienSach\bin\Debug\QLNS_GiaodienSach.pdb
+C:\Users\Asus\source\repos\QLNS_GiaodienSach\QLNS_GiaodienSach\obj\Debug\QLNS_GiaodienSach.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\QLNS_GiaodienSach\QLNS_GiaodienSach\obj\Debug\QLNS_GiaodienSach.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\source\repos\QLNS_GiaodienSach\QLNS_GiaodienSach\obj\Debug\QLNS_GiaodienSach.Properties.Resources.resources
+C:\Users\Asus\source\repos\QLNS_GiaodienSach\QLNS_GiaodienSach\obj\Debug\QLNS_GiaodienSach.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\QLNS_GiaodienSach\QLNS_GiaodienSach\obj\Debug\QLNS_GiaodienSach.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\QLNS_GiaodienSach\QLNS_GiaodienSach\obj\Debug\QLNS_GiaodienSach.exe
+C:\Users\Asus\source\repos\QLNS_GiaodienSach\QLNS_GiaodienSach\obj\Debug\QLNS_GiaodienSach.pdb
+C:\Users\Asus\source\repos\QLNS_GiaodienSach\QLNS_GiaodienSach\obj\Debug\QLNS_GiaodienSach.fDuLieuSach.resources
+C:\Users\Asus\source\repos\QLNS_GiaodienSach\QLNS_GiaodienSach\obj\Debug\QLNS_GiaodienSach.fManHinhChinh.resources
+C:\Users\Asus\source\repos\QLNS_GiaodienSach\QLNS_GiaodienSach\obj\Debug\QLNS_GiaodienSach.fDangNhap.resources
+C:\Users\Asus\source\repos\QLNS_GiaodienSach\QLNS_GiaodienSach\obj\Debug\QLNS_GiaodienSach.fTaiKhoan.resources
+C:\Users\Asus\source\repos\QLNS_GiaodienSach\QLNS_GiaodienSach\obj\Debug\QLNS_GiaodienSach.fDoiMatKhau.resources
+C:\Users\Asus\source\repos\QLNS_GiaodienSach\QLNS_GiaodienSach\obj\Debug\QLNS_GiaodienSach.fKhachHang.resources
+C:\Users\Asus\source\repos\QLNS_GiaodienSach\QLNS_GiaodienSach\obj\Debug\QLNS_GiaodienSach.fPhieuNhapSach.resources
+C:\Users\Asus\source\repos\QLNS_GiaodienSach\QLNS_GiaodienSach\obj\Debug\QLNS_GiaodienSach.fPhieuThuTien.resources
+C:\Users\Asus\source\repos\QLNS_GiaodienSach\QLNS_GiaodienSach\obj\Debug\QLNS_GiaodienSach.fTheLoai.resources
+C:\Users\Asus\source\repos\QLNS_GiaodienSach\QLNS_GiaodienSach\obj\Debug\QLNS_GiaodienSach.fThemTaiKhoan.resources
+C:\Users\Asus\source\repos\QLNS_GiaodienSach\QLNS_GiaodienSach\obj\Debug\QLNS_GiaodienSach.fHoaDon.resources
+C:\Users\Asus\Source\Repos\QuanLiNhaSach_GiaoDien\QuanLyNhaSach\QLNS_GiaodienSach\obj\Debug\QLNS_GiaodienSach.csproj.AssemblyReference.cache
+C:\Users\Asus\Source\Repos\QuanLiNhaSach_GiaoDien\QuanLyNhaSach\QLNS_GiaodienSach\obj\Debug\QLNS_GiaodienSach.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\Source\Repos\QuanLiNhaSach_GiaoDien\QuanLyNhaSach\QLNS_GiaodienSach\obj\Debug\QLNS_GiaodienSach.fDoiMatKhau.resources
+C:\Users\Asus\Source\Repos\QuanLiNhaSach_GiaoDien\QuanLyNhaSach\QLNS_GiaodienSach\obj\Debug\QLNS_GiaodienSach.fDuLieuSach.resources
+C:\Users\Asus\Source\Repos\QuanLiNhaSach_GiaoDien\QuanLyNhaSach\QLNS_GiaodienSach\obj\Debug\QLNS_GiaodienSach.fDangNhap.resources
+C:\Users\Asus\Source\Repos\QuanLiNhaSach_GiaoDien\QuanLyNhaSach\QLNS_GiaodienSach\obj\Debug\QLNS_GiaodienSach.fHoaDon.resources
+C:\Users\Asus\Source\Repos\QuanLiNhaSach_GiaoDien\QuanLyNhaSach\QLNS_GiaodienSach\obj\Debug\QLNS_GiaodienSach.fKhachHang.resources
+C:\Users\Asus\Source\Repos\QuanLiNhaSach_GiaoDien\QuanLyNhaSach\QLNS_GiaodienSach\obj\Debug\QLNS_GiaodienSach.fManHinhChinh.resources
+C:\Users\Asus\Source\Repos\QuanLiNhaSach_GiaoDien\QuanLyNhaSach\QLNS_GiaodienSach\obj\Debug\QLNS_GiaodienSach.fNhapBaoCaoCongNo.resources
+C:\Users\Asus\Source\Repos\QuanLiNhaSach_GiaoDien\QuanLyNhaSach\QLNS_GiaodienSach\obj\Debug\QLNS_GiaodienSach.fNhapBaoCaoTon.resources
+C:\Users\Asus\Source\Repos\QuanLiNhaSach_GiaoDien\QuanLyNhaSach\QLNS_GiaodienSach\obj\Debug\QLNS_GiaodienSach.fPhieuNhapSach.resources
+C:\Users\Asus\Source\Repos\QuanLiNhaSach_GiaoDien\QuanLyNhaSach\QLNS_GiaodienSach\obj\Debug\QLNS_GiaodienSach.fPhieuThuTien.resources
+C:\Users\Asus\Source\Repos\QuanLiNhaSach_GiaoDien\QuanLyNhaSach\QLNS_GiaodienSach\obj\Debug\QLNS_GiaodienSach.fTaiKhoan.resources
+C:\Users\Asus\Source\Repos\QuanLiNhaSach_GiaoDien\QuanLyNhaSach\QLNS_GiaodienSach\obj\Debug\QLNS_GiaodienSach.fThayDoiQuyDinh.resources
+C:\Users\Asus\Source\Repos\QuanLiNhaSach_GiaoDien\QuanLyNhaSach\QLNS_GiaodienSach\obj\Debug\QLNS_GiaodienSach.fTheLoai.resources
+C:\Users\Asus\Source\Repos\QuanLiNhaSach_GiaoDien\QuanLyNhaSach\QLNS_GiaodienSach\obj\Debug\QLNS_GiaodienSach.fThemTaiKhoan.resources
+C:\Users\Asus\Source\Repos\QuanLiNhaSach_GiaoDien\QuanLyNhaSach\QLNS_GiaodienSach\obj\Debug\QLNS_GiaodienSach.fXemBaoCaoCongNo.resources
+C:\Users\Asus\Source\Repos\QuanLiNhaSach_GiaoDien\QuanLyNhaSach\QLNS_GiaodienSach\obj\Debug\QLNS_GiaodienSach.fXemBaoCaoTon.resources
+C:\Users\Asus\Source\Repos\QuanLiNhaSach_GiaoDien\QuanLyNhaSach\QLNS_GiaodienSach\obj\Debug\QLNS_GiaodienSach.Properties.Resources.resources
+C:\Users\Asus\Source\Repos\QuanLiNhaSach_GiaoDien\QuanLyNhaSach\QLNS_GiaodienSach\obj\Debug\QLNS_GiaodienSach.csproj.GenerateResource.cache
+C:\Users\Asus\Source\Repos\QuanLiNhaSach_GiaoDien\QuanLyNhaSach\QLNS_GiaodienSach\obj\Debug\QLNS_GiaodienSach.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Source\Repos\QuanLiNhaSach_GiaoDien\QuanLyNhaSach\QLNS_GiaodienSach\obj\Debug\QLNS_GiaodienSach.exe
+C:\Users\Asus\Source\Repos\QuanLiNhaSach_GiaoDien\QuanLyNhaSach\QLNS_GiaodienSach\obj\Debug\QLNS_GiaodienSach.pdb
+C:\Users\Asus\Source\Repos\QuanLiNhaSach_GiaoDien\QuanLyNhaSach\QLNS_GiaodienSach\bin\Debug\QLNS_GiaodienSach.exe.config
+C:\Users\Asus\Source\Repos\QuanLiNhaSach_GiaoDien\QuanLyNhaSach\QLNS_GiaodienSach\bin\Debug\QLNS_GiaodienSach.exe
+C:\Users\Asus\Source\Repos\QuanLiNhaSach_GiaoDien\QuanLyNhaSach\QLNS_GiaodienSach\bin\Debug\QLNS_GiaodienSach.pdb
+D:\Programs\Microsoft Visual Studio\temp\QuanLiNhaSach\QuanLyNhaSach\QLNS_GiaodienSach\bin\Debug\QLNS_GiaodienSach.exe.config
+D:\Programs\Microsoft Visual Studio\temp\QuanLiNhaSach\QuanLyNhaSach\QLNS_GiaodienSach\bin\Debug\QLNS_GiaodienSach.exe
+D:\Programs\Microsoft Visual Studio\temp\QuanLiNhaSach\QuanLyNhaSach\QLNS_GiaodienSach\bin\Debug\QLNS_GiaodienSach.pdb
+D:\Programs\Microsoft Visual Studio\temp\QuanLiNhaSach\QuanLyNhaSach\QLNS_GiaodienSach\obj\Debug\QLNS_GiaodienSach.csproj.AssemblyReference.cache
+D:\Programs\Microsoft Visual Studio\temp\QuanLiNhaSach\QuanLyNhaSach\QLNS_GiaodienSach\obj\Debug\QLNS_GiaodienSach.fDoiMatKhau.resources
+D:\Programs\Microsoft Visual Studio\temp\QuanLiNhaSach\QuanLyNhaSach\QLNS_GiaodienSach\obj\Debug\QLNS_GiaodienSach.fDuLieuSach.resources
+D:\Programs\Microsoft Visual Studio\temp\QuanLiNhaSach\QuanLyNhaSach\QLNS_GiaodienSach\obj\Debug\QLNS_GiaodienSach.fDangNhap.resources
+D:\Programs\Microsoft Visual Studio\temp\QuanLiNhaSach\QuanLyNhaSach\QLNS_GiaodienSach\obj\Debug\QLNS_GiaodienSach.fHoaDon.resources
+D:\Programs\Microsoft Visual Studio\temp\QuanLiNhaSach\QuanLyNhaSach\QLNS_GiaodienSach\obj\Debug\QLNS_GiaodienSach.fKhachHang.resources
+D:\Programs\Microsoft Visual Studio\temp\QuanLiNhaSach\QuanLyNhaSach\QLNS_GiaodienSach\obj\Debug\QLNS_GiaodienSach.fManHinhChinh.resources
+D:\Programs\Microsoft Visual Studio\temp\QuanLiNhaSach\QuanLyNhaSach\QLNS_GiaodienSach\obj\Debug\QLNS_GiaodienSach.fNhapBaoCaoCongNo.resources
+D:\Programs\Microsoft Visual Studio\temp\QuanLiNhaSach\QuanLyNhaSach\QLNS_GiaodienSach\obj\Debug\QLNS_GiaodienSach.fNhapBaoCaoTon.resources
+D:\Programs\Microsoft Visual Studio\temp\QuanLiNhaSach\QuanLyNhaSach\QLNS_GiaodienSach\obj\Debug\QLNS_GiaodienSach.fPhieuNhapSach.resources
+D:\Programs\Microsoft Visual Studio\temp\QuanLiNhaSach\QuanLyNhaSach\QLNS_GiaodienSach\obj\Debug\QLNS_GiaodienSach.fPhieuThuTien.resources
+D:\Programs\Microsoft Visual Studio\temp\QuanLiNhaSach\QuanLyNhaSach\QLNS_GiaodienSach\obj\Debug\QLNS_GiaodienSach.fTaiKhoan.resources
+D:\Programs\Microsoft Visual Studio\temp\QuanLiNhaSach\QuanLyNhaSach\QLNS_GiaodienSach\obj\Debug\QLNS_GiaodienSach.fThayDoiQuyDinh.resources
+D:\Programs\Microsoft Visual Studio\temp\QuanLiNhaSach\QuanLyNhaSach\QLNS_GiaodienSach\obj\Debug\QLNS_GiaodienSach.fTheLoai.resources
+D:\Programs\Microsoft Visual Studio\temp\QuanLiNhaSach\QuanLyNhaSach\QLNS_GiaodienSach\obj\Debug\QLNS_GiaodienSach.fThemTaiKhoan.resources
+D:\Programs\Microsoft Visual Studio\temp\QuanLiNhaSach\QuanLyNhaSach\QLNS_GiaodienSach\obj\Debug\QLNS_GiaodienSach.fXemBaoCaoCongNo.resources
+D:\Programs\Microsoft Visual Studio\temp\QuanLiNhaSach\QuanLyNhaSach\QLNS_GiaodienSach\obj\Debug\QLNS_GiaodienSach.fXemBaoCaoTon.resources
+D:\Programs\Microsoft Visual Studio\temp\QuanLiNhaSach\QuanLyNhaSach\QLNS_GiaodienSach\obj\Debug\QLNS_GiaodienSach.Properties.Resources.resources
+D:\Programs\Microsoft Visual Studio\temp\QuanLiNhaSach\QuanLyNhaSach\QLNS_GiaodienSach\obj\Debug\QLNS_GiaodienSach.csproj.GenerateResource.cache
+D:\Programs\Microsoft Visual Studio\temp\QuanLiNhaSach\QuanLyNhaSach\QLNS_GiaodienSach\obj\Debug\QLNS_GiaodienSach.csproj.CoreCompileInputs.cache
+D:\Programs\Microsoft Visual Studio\temp\QuanLiNhaSach\QuanLyNhaSach\QLNS_GiaodienSach\obj\Debug\QLNS_GiaodienSach.exe
+D:\Programs\Microsoft Visual Studio\temp\QuanLiNhaSach\QuanLyNhaSach\QLNS_GiaodienSach\obj\Debug\QLNS_GiaodienSach.pdb
+D:\Programs\Microsoft Visual Studio\temp\QuanLiNhaSach\QuanLyNhaSach\QLNS_GiaodienSach\bin\Debug\vi-VN\QLNS_GiaodienSach.resources.dll
+D:\Programs\Microsoft Visual Studio\temp\QuanLiNhaSach\QuanLyNhaSach\QLNS_GiaodienSach\obj\Debug\QLNS_GiaodienSach.fPhieuNhapSach.vi-VN.resources
+D:\Programs\Microsoft Visual Studio\temp\QuanLiNhaSach\QuanLyNhaSach\QLNS_GiaodienSach\obj\Debug\vi-VN\QLNS_GiaodienSach.resources.dll
