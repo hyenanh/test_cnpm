@@ -30,7 +30,7 @@ namespace QLNS_GiaodienSach
 
         private void LoadCT_PNS()
         {
-            string query_HienThiCT_PNS = "select * " +
+            string query_HienThiCT_PNS = "select "+  "" +
                                    "from   " +
                                    "where";
             DataTable dt = new DataTable();
