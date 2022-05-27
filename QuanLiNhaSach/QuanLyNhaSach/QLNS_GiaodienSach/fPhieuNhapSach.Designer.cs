@@ -39,13 +39,21 @@
             this.lNgayNhap = new System.Windows.Forms.Label();
             this.gBNhapSach = new System.Windows.Forms.GroupBox();
             this.dgvCT_PhieuNhap = new System.Windows.Forms.DataGridView();
+            this.MaPhieu = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.clSTT = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.clSach = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.clTheLoai = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.clTacGia = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.clSoLuong = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.clDonGiaNhap = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.gbCT_PNS = new System.Windows.Forms.GroupBox();
             this.btnTroVe = new System.Windows.Forms.Button();
             this.btnThemPhieu = new System.Windows.Forms.Button();
             this.panel2 = new System.Windows.Forms.Panel();
+            this.lbThemSachMoi = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
+            this.cbbSach = new System.Windows.Forms.ComboBox();
             this.panel3 = new System.Windows.Forms.Panel();
-            this.lbThemTheLoai = new System.Windows.Forms.Label();
             this.cbbTheLoai = new System.Windows.Forms.ComboBox();
             this.label2 = new System.Windows.Forms.Label();
             this.panel4 = new System.Windows.Forms.Panel();
@@ -61,15 +69,6 @@
             this.panel7 = new System.Windows.Forms.Panel();
             this.txbMaSach = new System.Windows.Forms.TextBox();
             this.label6 = new System.Windows.Forms.Label();
-            this.cbbSach = new System.Windows.Forms.ComboBox();
-            this.MaPhieu = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.clSTT = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.clSach = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.clTheLoai = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.clTacGia = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.clSoLuong = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.clDonGiaNhap = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.lbThemSachMoi = new System.Windows.Forms.Label();
             this.gbPNS.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgvPhieuNhap)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dgvCT_PhieuDaNhap)).BeginInit();
@@ -178,6 +177,46 @@
             this.dgvCT_PhieuNhap.Name = "dgvCT_PhieuNhap";
             this.dgvCT_PhieuNhap.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.CellSelect;
             // 
+            // MaPhieu
+            // 
+            resources.ApplyResources(this.MaPhieu, "MaPhieu");
+            this.MaPhieu.Name = "MaPhieu";
+            this.MaPhieu.ReadOnly = true;
+            // 
+            // clSTT
+            // 
+            this.clSTT.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.DisplayedCells;
+            dataGridViewCellStyle1.Format = "N2";
+            this.clSTT.DefaultCellStyle = dataGridViewCellStyle1;
+            resources.ApplyResources(this.clSTT, "clSTT");
+            this.clSTT.Name = "clSTT";
+            this.clSTT.Resizable = System.Windows.Forms.DataGridViewTriState.True;
+            // 
+            // clSach
+            // 
+            resources.ApplyResources(this.clSach, "clSach");
+            this.clSach.Name = "clSach";
+            // 
+            // clTheLoai
+            // 
+            resources.ApplyResources(this.clTheLoai, "clTheLoai");
+            this.clTheLoai.Name = "clTheLoai";
+            // 
+            // clTacGia
+            // 
+            resources.ApplyResources(this.clTacGia, "clTacGia");
+            this.clTacGia.Name = "clTacGia";
+            // 
+            // clSoLuong
+            // 
+            resources.ApplyResources(this.clSoLuong, "clSoLuong");
+            this.clSoLuong.Name = "clSoLuong";
+            // 
+            // clDonGiaNhap
+            // 
+            resources.ApplyResources(this.clDonGiaNhap, "clDonGiaNhap");
+            this.clDonGiaNhap.Name = "clDonGiaNhap";
+            // 
             // gbCT_PNS
             // 
             this.gbCT_PNS.BackColor = System.Drawing.Color.Transparent;
@@ -193,7 +232,6 @@
             this.btnTroVe.ForeColor = System.Drawing.Color.Black;
             this.btnTroVe.Name = "btnTroVe";
             this.btnTroVe.UseVisualStyleBackColor = true;
-            this.btnTroVe.Click += new System.EventHandler(this.btnTroVe_Click);
             // 
             // btnThemPhieu
             // 
@@ -212,29 +250,41 @@
             this.panel2.ForeColor = System.Drawing.Color.Transparent;
             this.panel2.Name = "panel2";
             // 
+            // lbThemSachMoi
+            // 
+            resources.ApplyResources(this.lbThemSachMoi, "lbThemSachMoi");
+            this.lbThemSachMoi.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.lbThemSachMoi.ForeColor = System.Drawing.Color.Black;
+            this.lbThemSachMoi.Name = "lbThemSachMoi";
+            this.lbThemSachMoi.Click += new System.EventHandler(this.lbThemSachMoi_Click);
+            // 
             // label1
             // 
             resources.ApplyResources(this.label1, "label1");
             this.label1.ForeColor = System.Drawing.Color.Black;
             this.label1.Name = "label1";
             // 
+            // cbbSach
+            // 
+            this.cbbSach.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.SuggestAppend;
+            this.cbbSach.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.ListItems;
+            resources.ApplyResources(this.cbbSach, "cbbSach");
+            this.cbbSach.FormattingEnabled = true;
+            this.cbbSach.Items.AddRange(new object[] {
+            resources.GetString("cbbSach.Items"),
+            resources.GetString("cbbSach.Items1"),
+            resources.GetString("cbbSach.Items2"),
+            resources.GetString("cbbSach.Items3")});
+            this.cbbSach.Name = "cbbSach";
+            // 
             // panel3
             // 
             this.panel3.BackColor = System.Drawing.Color.Transparent;
-            this.panel3.Controls.Add(this.lbThemTheLoai);
             this.panel3.Controls.Add(this.cbbTheLoai);
             this.panel3.Controls.Add(this.label2);
             resources.ApplyResources(this.panel3, "panel3");
             this.panel3.ForeColor = System.Drawing.Color.Transparent;
             this.panel3.Name = "panel3";
-            // 
-            // lbThemTheLoai
-            // 
-            resources.ApplyResources(this.lbThemTheLoai, "lbThemTheLoai");
-            this.lbThemTheLoai.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.lbThemTheLoai.ForeColor = System.Drawing.Color.Black;
-            this.lbThemTheLoai.Name = "lbThemTheLoai";
-            this.lbThemTheLoai.Click += new System.EventHandler(this.lbThemTheLoai_Click);
             // 
             // cbbTheLoai
             // 
@@ -318,7 +368,6 @@
             this.btnThemSach.ForeColor = System.Drawing.Color.Black;
             this.btnThemSach.Name = "btnThemSach";
             this.btnThemSach.UseVisualStyleBackColor = true;
-            this.btnThemSach.Click += new System.EventHandler(this.btnThemSach_Click);
             // 
             // panel7
             // 
@@ -341,67 +390,6 @@
             resources.ApplyResources(this.label6, "label6");
             this.label6.ForeColor = System.Drawing.Color.Black;
             this.label6.Name = "label6";
-            // 
-            // cbbSach
-            // 
-            this.cbbSach.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.SuggestAppend;
-            this.cbbSach.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.ListItems;
-            resources.ApplyResources(this.cbbSach, "cbbSach");
-            this.cbbSach.FormattingEnabled = true;
-            this.cbbSach.Items.AddRange(new object[] {
-            resources.GetString("cbbSach.Items"),
-            resources.GetString("cbbSach.Items1"),
-            resources.GetString("cbbSach.Items2"),
-            resources.GetString("cbbSach.Items3")});
-            this.cbbSach.Name = "cbbSach";
-            // 
-            // MaPhieu
-            // 
-            resources.ApplyResources(this.MaPhieu, "MaPhieu");
-            this.MaPhieu.Name = "MaPhieu";
-            this.MaPhieu.ReadOnly = true;
-            // 
-            // clSTT
-            // 
-            this.clSTT.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.DisplayedCells;
-            dataGridViewCellStyle1.Format = "N2";
-            this.clSTT.DefaultCellStyle = dataGridViewCellStyle1;
-            resources.ApplyResources(this.clSTT, "clSTT");
-            this.clSTT.Name = "clSTT";
-            this.clSTT.Resizable = System.Windows.Forms.DataGridViewTriState.True;
-            // 
-            // clSach
-            // 
-            resources.ApplyResources(this.clSach, "clSach");
-            this.clSach.Name = "clSach";
-            // 
-            // clTheLoai
-            // 
-            resources.ApplyResources(this.clTheLoai, "clTheLoai");
-            this.clTheLoai.Name = "clTheLoai";
-            // 
-            // clTacGia
-            // 
-            resources.ApplyResources(this.clTacGia, "clTacGia");
-            this.clTacGia.Name = "clTacGia";
-            // 
-            // clSoLuong
-            // 
-            resources.ApplyResources(this.clSoLuong, "clSoLuong");
-            this.clSoLuong.Name = "clSoLuong";
-            // 
-            // clDonGiaNhap
-            // 
-            resources.ApplyResources(this.clDonGiaNhap, "clDonGiaNhap");
-            this.clDonGiaNhap.Name = "clDonGiaNhap";
-            // 
-            // lbThemSachMoi
-            // 
-            resources.ApplyResources(this.lbThemSachMoi, "lbThemSachMoi");
-            this.lbThemSachMoi.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.lbThemSachMoi.ForeColor = System.Drawing.Color.Black;
-            this.lbThemSachMoi.Name = "lbThemSachMoi";
-            this.lbThemSachMoi.Click += new System.EventHandler(this.lbThemTheLoai_Click);
             // 
             // fPhieuNhapSach
             // 
@@ -481,7 +469,6 @@
         private System.Windows.Forms.TextBox txbMaSach;
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.TextBox txbTacGia;
-        private System.Windows.Forms.Label lbThemTheLoai;
         private System.Windows.Forms.ComboBox cbbSach;
         private System.Windows.Forms.DataGridViewTextBoxColumn MaPhieu;
         private System.Windows.Forms.DataGridViewTextBoxColumn clSTT;

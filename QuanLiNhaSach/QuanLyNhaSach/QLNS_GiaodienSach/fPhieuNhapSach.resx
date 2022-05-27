@@ -571,7 +571,7 @@
     <value>NoControl</value>
   </data>
   <data name="lbThemSachMoi.Location" type="System.Drawing.Point, System.Drawing">
-    <value>43, 7</value>
+    <value>17, 39</value>
   </data>
   <data name="lbThemSachMoi.Size" type="System.Drawing.Size, System.Drawing">
     <value>125, 16</value>
@@ -601,7 +601,7 @@
     <value>Microsoft Sans Serif, 9.75pt</value>
   </data>
   <data name="label1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>4, 7</value>
+    <value>60, 15</value>
   </data>
   <data name="label1.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
@@ -643,7 +643,7 @@
     <value>4</value>
   </data>
   <data name="cbbSach.Location" type="System.Drawing.Point, System.Drawing">
-    <value>175, 4</value>
+    <value>175, 15</value>
   </data>
   <data name="cbbSach.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 4, 4, 4</value>
@@ -676,7 +676,7 @@
     <value>4, 4, 4, 4</value>
   </data>
   <data name="panel2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>558, 31</value>
+    <value>558, 70</value>
   </data>
   <data name="panel2.TabIndex" type="System.Int32, mscorlib">
     <value>13</value>
@@ -693,41 +693,11 @@
   <data name="&gt;&gt;panel2.ZOrder" xml:space="preserve">
     <value>5</value>
   </data>
-  <data name="lbThemTheLoai.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="lbThemTheLoai.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 9.75pt, style=Bold, Underline</value>
-  </data>
-  <data name="lbThemTheLoai.Location" type="System.Drawing.Point, System.Drawing">
-    <value>55, 48</value>
-  </data>
-  <data name="lbThemTheLoai.Size" type="System.Drawing.Size, System.Drawing">
-    <value>141, 16</value>
-  </data>
-  <data name="lbThemTheLoai.TabIndex" type="System.Int32, mscorlib">
-    <value>3</value>
-  </data>
-  <data name="lbThemTheLoai.Text" xml:space="preserve">
-    <value>(Thêm thể loại mới)</value>
-  </data>
-  <data name="&gt;&gt;lbThemTheLoai.Name" xml:space="preserve">
-    <value>lbThemTheLoai</value>
-  </data>
-  <data name="&gt;&gt;lbThemTheLoai.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;lbThemTheLoai.Parent" xml:space="preserve">
-    <value>panel3</value>
-  </data>
-  <data name="&gt;&gt;lbThemTheLoai.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
   <data name="cbbTheLoai.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 9.75pt</value>
   </data>
   <data name="cbbTheLoai.Location" type="System.Drawing.Point, System.Drawing">
-    <value>93, 11</value>
+    <value>93, 3</value>
   </data>
   <data name="cbbTheLoai.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 4, 4, 4</value>
@@ -748,7 +718,7 @@
     <value>panel3</value>
   </data>
   <data name="&gt;&gt;cbbTheLoai.ZOrder" xml:space="preserve">
-    <value>1</value>
+    <value>0</value>
   </data>
   <data name="label2.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -760,7 +730,7 @@
     <value>NoControl</value>
   </data>
   <data name="label2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>4, 18</value>
+    <value>4, 11</value>
   </data>
   <data name="label2.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
@@ -784,7 +754,7 @@
     <value>panel3</value>
   </data>
   <data name="&gt;&gt;label2.ZOrder" xml:space="preserve">
-    <value>2</value>
+    <value>1</value>
   </data>
   <data name="panel3.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 9.75pt</value>
@@ -796,7 +766,7 @@
     <value>4, 4, 4, 4</value>
   </data>
   <data name="panel3.Size" type="System.Drawing.Size, System.Drawing">
-    <value>251, 73</value>
+    <value>251, 31</value>
   </data>
   <data name="panel3.TabIndex" type="System.Int32, mscorlib">
     <value>13</value>
@@ -817,13 +787,13 @@
     <value>Microsoft Sans Serif, 9.75pt</value>
   </data>
   <data name="txbTacGia.Location" type="System.Drawing.Point, System.Drawing">
-    <value>74, 5</value>
+    <value>175, 3</value>
   </data>
   <data name="txbTacGia.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 4, 4, 4</value>
   </data>
   <data name="txbTacGia.Size" type="System.Drawing.Size, System.Drawing">
-    <value>215, 22</value>
+    <value>186, 22</value>
   </data>
   <data name="txbTacGia.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -850,7 +820,7 @@
     <value>NoControl</value>
   </data>
   <data name="label3.Location" type="System.Drawing.Point, System.Drawing">
-    <value>4, 11</value>
+    <value>40, 6</value>
   </data>
   <data name="label3.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 0, 4, 0</value>
@@ -880,13 +850,13 @@
     <value>Microsoft Sans Serif, 9.75pt</value>
   </data>
   <data name="panel4.Location" type="System.Drawing.Point, System.Drawing">
-    <value>733, 527</value>
+    <value>736, 566</value>
   </data>
   <data name="panel4.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 4, 4, 4</value>
   </data>
   <data name="panel4.Size" type="System.Drawing.Size, System.Drawing">
-    <value>302, 31</value>
+    <value>378, 31</value>
   </data>
   <data name="panel4.TabIndex" type="System.Int32, mscorlib">
     <value>13</value>
@@ -907,7 +877,7 @@
     <value>Microsoft Sans Serif, 9.75pt</value>
   </data>
   <data name="dUDSoLuong.Location" type="System.Drawing.Point, System.Drawing">
-    <value>74, 3</value>
+    <value>93, 3</value>
   </data>
   <data name="dUDSoLuong.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 4, 4, 4</value>
@@ -970,13 +940,13 @@
     <value>Microsoft Sans Serif, 9.75pt</value>
   </data>
   <data name="panel5.Location" type="System.Drawing.Point, System.Drawing">
-    <value>733, 569</value>
+    <value>464, 566</value>
   </data>
   <data name="panel5.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 4, 4, 4</value>
   </data>
   <data name="panel5.Size" type="System.Drawing.Size, System.Drawing">
-    <value>193, 31</value>
+    <value>251, 31</value>
   </data>
   <data name="panel5.TabIndex" type="System.Int32, mscorlib">
     <value>13</value>
@@ -997,13 +967,13 @@
     <value>Microsoft Sans Serif, 9.75pt</value>
   </data>
   <data name="txbDonGiaNhap.Location" type="System.Drawing.Point, System.Drawing">
-    <value>114, 3</value>
+    <value>93, 3</value>
   </data>
   <data name="txbDonGiaNhap.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 4, 4, 4</value>
   </data>
   <data name="txbDonGiaNhap.Size" type="System.Drawing.Size, System.Drawing">
-    <value>209, 22</value>
+    <value>132, 22</value>
   </data>
   <data name="txbDonGiaNhap.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -1060,13 +1030,13 @@
     <value>Microsoft Sans Serif, 9.75pt</value>
   </data>
   <data name="panel6.Location" type="System.Drawing.Point, System.Drawing">
-    <value>938, 569</value>
+    <value>464, 608</value>
   </data>
   <data name="panel6.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 4, 4, 4</value>
   </data>
   <data name="panel6.Size" type="System.Drawing.Size, System.Drawing">
-    <value>353, 31</value>
+    <value>251, 31</value>
   </data>
   <data name="panel6.TabIndex" type="System.Int32, mscorlib">
     <value>13</value>
@@ -1090,7 +1060,7 @@
     <value>NoControl</value>
   </data>
   <data name="btnThemSach.Location" type="System.Drawing.Point, System.Drawing">
-    <value>1154, 524</value>
+    <value>1154, 564</value>
   </data>
   <data name="btnThemSach.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 4, 4, 4</value>

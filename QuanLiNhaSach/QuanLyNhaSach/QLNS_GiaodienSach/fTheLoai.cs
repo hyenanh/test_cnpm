@@ -56,19 +56,28 @@ namespace QLNS_GiaodienSach
 
         private void btThem_Click(object sender, EventArgs e)
         {
-            string query_Add = "INSERT INTO THE_LOAI (TenTL)" +
-                                " VALUES (N'"+ tbTheLoai.Text + "')";
-            int add = DataProvider.Instance.ExcuteNonQuery(query_Add);
-            if ( add > 0)
+            if (tbTheLoai.Text == "")
             {
-                LoadTheLoaiList();
-                MessageBox.Show("Cập nhật thành công");
-                tbTheLoai.Clear();
+                MessageBox.Show("Bạn chưa nhập tên thể loại mới!");
             }
             else
             {
-                MessageBox.Show("Cập nhật thất bại");
-            }
+                string query_Add = "INSERT INTO THE_LOAI (TenTL)" +
+                                " VALUES (N'" + tbTheLoai.Text + "')";
+                int add = DataProvider.Instance.ExcuteNonQuery(query_Add);
+                if (add > 0)
+                {
+                    LoadTheLoaiList();
+                    MessageBox.Show("Cập nhật thành công");
+                    tbTheLoai.Clear();
+                }
+                else
+                {
+                    MessageBox.Show("Cập nhật thất bại");
+                }
+            } 
+                
+            
         }
 
         private void btTroVe_Click(object sender, EventArgs e)

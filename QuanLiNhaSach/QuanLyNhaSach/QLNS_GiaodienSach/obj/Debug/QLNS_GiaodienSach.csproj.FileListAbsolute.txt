@@ -73,3 +73,31 @@ D:\Programs\Microsoft Visual Studio\temp\QuanLiNhaSach\QuanLyNhaSach\QLNS_Giaodi
 D:\Programs\Microsoft Visual Studio\temp\QuanLiNhaSach\QuanLyNhaSach\QLNS_GiaodienSach\bin\Debug\vi-VN\QLNS_GiaodienSach.resources.dll
 D:\Programs\Microsoft Visual Studio\temp\QuanLiNhaSach\QuanLyNhaSach\QLNS_GiaodienSach\obj\Debug\QLNS_GiaodienSach.fPhieuNhapSach.vi-VN.resources
 D:\Programs\Microsoft Visual Studio\temp\QuanLiNhaSach\QuanLyNhaSach\QLNS_GiaodienSach\obj\Debug\vi-VN\QLNS_GiaodienSach.resources.dll
+D:\Programs\GitHub\test_cnpm\QuanLiNhaSach\QuanLyNhaSach\QLNS_GiaodienSach\obj\Debug\QLNS_GiaodienSach.csproj.AssemblyReference.cache
+D:\Programs\GitHub\test_cnpm\QuanLiNhaSach\QuanLyNhaSach\QLNS_GiaodienSach\obj\Debug\QLNS_GiaodienSach.fDoiMatKhau.resources
+D:\Programs\GitHub\test_cnpm\QuanLiNhaSach\QuanLyNhaSach\QLNS_GiaodienSach\obj\Debug\QLNS_GiaodienSach.fDuLieuSach.resources
+D:\Programs\GitHub\test_cnpm\QuanLiNhaSach\QuanLyNhaSach\QLNS_GiaodienSach\obj\Debug\QLNS_GiaodienSach.fDangNhap.resources
+D:\Programs\GitHub\test_cnpm\QuanLiNhaSach\QuanLyNhaSach\QLNS_GiaodienSach\obj\Debug\QLNS_GiaodienSach.fHoaDon.resources
+D:\Programs\GitHub\test_cnpm\QuanLiNhaSach\QuanLyNhaSach\QLNS_GiaodienSach\obj\Debug\QLNS_GiaodienSach.fKhachHang.resources
+D:\Programs\GitHub\test_cnpm\QuanLiNhaSach\QuanLyNhaSach\QLNS_GiaodienSach\obj\Debug\QLNS_GiaodienSach.fManHinhChinh.resources
+D:\Programs\GitHub\test_cnpm\QuanLiNhaSach\QuanLyNhaSach\QLNS_GiaodienSach\obj\Debug\QLNS_GiaodienSach.fNhapBaoCaoCongNo.resources
+D:\Programs\GitHub\test_cnpm\QuanLiNhaSach\QuanLyNhaSach\QLNS_GiaodienSach\obj\Debug\QLNS_GiaodienSach.fNhapBaoCaoTon.resources
+D:\Programs\GitHub\test_cnpm\QuanLiNhaSach\QuanLyNhaSach\QLNS_GiaodienSach\obj\Debug\QLNS_GiaodienSach.fPhieuNhapSach.resources
+D:\Programs\GitHub\test_cnpm\QuanLiNhaSach\QuanLyNhaSach\QLNS_GiaodienSach\obj\Debug\QLNS_GiaodienSach.fPhieuThuTien.resources
+D:\Programs\GitHub\test_cnpm\QuanLiNhaSach\QuanLyNhaSach\QLNS_GiaodienSach\obj\Debug\QLNS_GiaodienSach.fTaiKhoan.resources
+D:\Programs\GitHub\test_cnpm\QuanLiNhaSach\QuanLyNhaSach\QLNS_GiaodienSach\obj\Debug\QLNS_GiaodienSach.fThayDoiQuyDinh.resources
+D:\Programs\GitHub\test_cnpm\QuanLiNhaSach\QuanLyNhaSach\QLNS_GiaodienSach\obj\Debug\QLNS_GiaodienSach.fTheLoai.resources
+D:\Programs\GitHub\test_cnpm\QuanLiNhaSach\QuanLyNhaSach\QLNS_GiaodienSach\obj\Debug\QLNS_GiaodienSach.fThemTaiKhoan.resources
+D:\Programs\GitHub\test_cnpm\QuanLiNhaSach\QuanLyNhaSach\QLNS_GiaodienSach\obj\Debug\QLNS_GiaodienSach.fXemBaoCaoCongNo.resources
+D:\Programs\GitHub\test_cnpm\QuanLiNhaSach\QuanLyNhaSach\QLNS_GiaodienSach\obj\Debug\QLNS_GiaodienSach.fXemBaoCaoTon.resources
+D:\Programs\GitHub\test_cnpm\QuanLiNhaSach\QuanLyNhaSach\QLNS_GiaodienSach\obj\Debug\QLNS_GiaodienSach.Properties.Resources.resources
+D:\Programs\GitHub\test_cnpm\QuanLiNhaSach\QuanLyNhaSach\QLNS_GiaodienSach\obj\Debug\QLNS_GiaodienSach.fPhieuNhapSach.vi-VN.resources
+D:\Programs\GitHub\test_cnpm\QuanLiNhaSach\QuanLyNhaSach\QLNS_GiaodienSach\obj\Debug\QLNS_GiaodienSach.csproj.GenerateResource.cache
+D:\Programs\GitHub\test_cnpm\QuanLiNhaSach\QuanLyNhaSach\QLNS_GiaodienSach\obj\Debug\QLNS_GiaodienSach.csproj.CoreCompileInputs.cache
+D:\Programs\GitHub\test_cnpm\QuanLiNhaSach\QuanLyNhaSach\QLNS_GiaodienSach\obj\Debug\QLNS_GiaodienSach.exe
+D:\Programs\GitHub\test_cnpm\QuanLiNhaSach\QuanLyNhaSach\QLNS_GiaodienSach\obj\Debug\QLNS_GiaodienSach.pdb
+D:\Programs\GitHub\test_cnpm\QuanLiNhaSach\QuanLyNhaSach\QLNS_GiaodienSach\bin\Debug\QLNS_GiaodienSach.exe.config
+D:\Programs\GitHub\test_cnpm\QuanLiNhaSach\QuanLyNhaSach\QLNS_GiaodienSach\bin\Debug\QLNS_GiaodienSach.exe
+D:\Programs\GitHub\test_cnpm\QuanLiNhaSach\QuanLyNhaSach\QLNS_GiaodienSach\bin\Debug\QLNS_GiaodienSach.pdb
+D:\Programs\GitHub\test_cnpm\QuanLiNhaSach\QuanLyNhaSach\QLNS_GiaodienSach\bin\Debug\vi-VN\QLNS_GiaodienSach.resources.dll
+D:\Programs\GitHub\test_cnpm\QuanLiNhaSach\QuanLyNhaSach\QLNS_GiaodienSach\obj\Debug\vi-VN\QLNS_GiaodienSach.resources.dll

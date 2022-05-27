@@ -54,63 +54,26 @@ namespace QLNS_GiaodienSach
 
        
         ///
-        private void lbThemTheLoai_Click(object sender, EventArgs e)
-        {
-            fTheLoai f = new fTheLoai();
-            f.ShowDialog();
-            this.Show();
-        }
-
+        
         private void btnTroVe_Click(object sender, EventArgs e)
         {
             this.Close();
         }
+
+        private void lbThemSachMoi_Click(object sender, EventArgs e)
+        {
+            fTheLoai f = new fTheLoai();
+            this.Hide();
+            f.ShowDialog();
+            this.Show();
+        }
+
         ///
-        
-        
-        private void btnThemSach_Click(object sender, EventArgs e)
-        {
-            
-            /*
-            if (txbSach.Text == "" || txbTacGia.Text == "" || cbbTheLoai.Text == "" || dUDSoLuong.Text == "" || txbDonGiaNhap.Text == "")
-            {
-                MessageBox.Show("VUI LÒNG ĐIỀN ĐỦ THÔNG TIN!", "THÔNG BÁO");
-            }
-            else
 
-            {*/
+    }
 
 
-                /*
-                DateTime namxb =dtpNgayNhap.Value;
 
-                string query = "Insert into SACH values('" + txbMaSach.Text + "','" + txbSach.Text + "'," +
-                        "(Select MATG From TACGIA Where TENTG = '" + cboTenTacGia.Text.ToString() + "'),'" + cboTenLinhVuc.Text + "','" + cboTenLoaiSach.Text + "','" + numericUpDownGiaMua.Value + "'," +
-                        "'" + numericUpDownGiaBia.Value + "','" + numericUpDownLanTaiBan.Value + "','" + cboTenNXB.Text.ToString() + "'," +
-                        "'" + namxb.ToString("yyyy-MM-dd") + "')";
-                DataTable data = DataProvider.Instance.ExecuteQuery(query);
-                MessageBox.Show("ĐÃ THÊM!", "THÔNG BÁO");
-                txbMaSach_TextChanged();
-                txbTenSach.Text = "";
-                cbMaTacGia_SelectedIndexChanged();
-                cbTenLinhVuc_SelectedIndexChanged();
-                cbTenLoaiSach_SelectedIndexChanged();
-                cbTenNXB_SelectedIndexChanged();
-                numericUpDownGiaMua.Value = 1000;
-                numericUpDownGiaBia.Value = 1000;
-                numericUpDownLanTaiBan.Value = 0;
-                dateTimePickerNamXuatBan.Text = DateTime.Now.ToString();*/
-            }
-        }
-
-        private void btnThemPhieu_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void cbbTheLoai1_SelectedIndexChanged(object sender, EventArgs e)
-        {
-
-        }
+       
 }
 
